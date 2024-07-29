@@ -1,0 +1,7 @@
+banner
+journey
+top destination
+popular tours
+upcoming tours
+newslater section
+footer
